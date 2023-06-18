@@ -1,11 +1,11 @@
-About r-pathdiagram
-===================
+About r-pathdiagram-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pathdiagram-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.gastonsanchez.com
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pathdiagram-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implementation of simple functions to draw basic path diagrams just for visualization purposes.
 
